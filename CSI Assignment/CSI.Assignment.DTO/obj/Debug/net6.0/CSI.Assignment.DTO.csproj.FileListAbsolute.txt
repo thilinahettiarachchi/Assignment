@@ -1,0 +1,14 @@
+C:\CSI\CSI Other\CSI Assignment 1\CSI Assignment\CSI.Assignment.DTO\bin\Debug\net6.0\CSI.Assignment.DTO.deps.json
+C:\CSI\CSI Other\CSI Assignment 1\CSI Assignment\CSI.Assignment.DTO\bin\Debug\net6.0\CSI.Assignment.DTO.runtimeconfig.json
+C:\CSI\CSI Other\CSI Assignment 1\CSI Assignment\CSI.Assignment.DTO\bin\Debug\net6.0\CSI.Assignment.DTO.dll
+C:\CSI\CSI Other\CSI Assignment 1\CSI Assignment\CSI.Assignment.DTO\bin\Debug\net6.0\CSI.Assignment.DTO.pdb
+C:\CSI\CSI Other\CSI Assignment 1\CSI Assignment\CSI.Assignment.DTO\obj\Debug\net6.0\CSI.Assignment.DTO.csproj.AssemblyReference.cache
+C:\CSI\CSI Other\CSI Assignment 1\CSI Assignment\CSI.Assignment.DTO\obj\Debug\net6.0\CSI.Assignment.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSI\CSI Other\CSI Assignment 1\CSI Assignment\CSI.Assignment.DTO\obj\Debug\net6.0\CSI.Assignment.DTO.AssemblyInfoInputs.cache
+C:\CSI\CSI Other\CSI Assignment 1\CSI Assignment\CSI.Assignment.DTO\obj\Debug\net6.0\CSI.Assignment.DTO.AssemblyInfo.cs
+C:\CSI\CSI Other\CSI Assignment 1\CSI Assignment\CSI.Assignment.DTO\obj\Debug\net6.0\CSI.Assignment.DTO.csproj.CoreCompileInputs.cache
+C:\CSI\CSI Other\CSI Assignment 1\CSI Assignment\CSI.Assignment.DTO\obj\Debug\net6.0\CSI.Assignment.DTO.dll
+C:\CSI\CSI Other\CSI Assignment 1\CSI Assignment\CSI.Assignment.DTO\obj\Debug\net6.0\refint\CSI.Assignment.DTO.dll
+C:\CSI\CSI Other\CSI Assignment 1\CSI Assignment\CSI.Assignment.DTO\obj\Debug\net6.0\CSI.Assignment.DTO.pdb
+C:\CSI\CSI Other\CSI Assignment 1\CSI Assignment\CSI.Assignment.DTO\obj\Debug\net6.0\CSI.Assignment.DTO.genruntimeconfig.cache
+C:\CSI\CSI Other\CSI Assignment 1\CSI Assignment\CSI.Assignment.DTO\obj\Debug\net6.0\ref\CSI.Assignment.DTO.dll

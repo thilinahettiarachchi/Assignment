@@ -1,0 +1,17 @@
+C:\CSI\CSI Other\CSI Assignment 1\CSI Assignment\CSI.Assignment.Entity\bin\Debug\net6.0\CSI.Assignment.Entity.deps.json
+C:\CSI\CSI Other\CSI Assignment 1\CSI Assignment\CSI.Assignment.Entity\bin\Debug\net6.0\CSI.Assignment.Entity.runtimeconfig.json
+C:\CSI\CSI Other\CSI Assignment 1\CSI Assignment\CSI.Assignment.Entity\bin\Debug\net6.0\CSI.Assignment.Entity.dll
+C:\CSI\CSI Other\CSI Assignment 1\CSI Assignment\CSI.Assignment.Entity\bin\Debug\net6.0\CSI.Assignment.Entity.pdb
+C:\CSI\CSI Other\CSI Assignment 1\CSI Assignment\CSI.Assignment.Entity\bin\Debug\net6.0\CSI.Assignment.DTO.dll
+C:\CSI\CSI Other\CSI Assignment 1\CSI Assignment\CSI.Assignment.Entity\bin\Debug\net6.0\CSI.Assignment.DTO.pdb
+C:\CSI\CSI Other\CSI Assignment 1\CSI Assignment\CSI.Assignment.Entity\obj\Debug\net6.0\CSI.Assignment.Entity.csproj.AssemblyReference.cache
+C:\CSI\CSI Other\CSI Assignment 1\CSI Assignment\CSI.Assignment.Entity\obj\Debug\net6.0\CSI.Assignment.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSI\CSI Other\CSI Assignment 1\CSI Assignment\CSI.Assignment.Entity\obj\Debug\net6.0\CSI.Assignment.Entity.AssemblyInfoInputs.cache
+C:\CSI\CSI Other\CSI Assignment 1\CSI Assignment\CSI.Assignment.Entity\obj\Debug\net6.0\CSI.Assignment.Entity.AssemblyInfo.cs
+C:\CSI\CSI Other\CSI Assignment 1\CSI Assignment\CSI.Assignment.Entity\obj\Debug\net6.0\CSI.Assignment.Entity.csproj.CoreCompileInputs.cache
+C:\CSI\CSI Other\CSI Assignment 1\CSI Assignment\CSI.Assignment.Entity\obj\Debug\net6.0\CSI.Assignment.Entity.csproj.CopyComplete
+C:\CSI\CSI Other\CSI Assignment 1\CSI Assignment\CSI.Assignment.Entity\obj\Debug\net6.0\CSI.Assignment.Entity.dll
+C:\CSI\CSI Other\CSI Assignment 1\CSI Assignment\CSI.Assignment.Entity\obj\Debug\net6.0\refint\CSI.Assignment.Entity.dll
+C:\CSI\CSI Other\CSI Assignment 1\CSI Assignment\CSI.Assignment.Entity\obj\Debug\net6.0\CSI.Assignment.Entity.pdb
+C:\CSI\CSI Other\CSI Assignment 1\CSI Assignment\CSI.Assignment.Entity\obj\Debug\net6.0\CSI.Assignment.Entity.genruntimeconfig.cache
+C:\CSI\CSI Other\CSI Assignment 1\CSI Assignment\CSI.Assignment.Entity\obj\Debug\net6.0\ref\CSI.Assignment.Entity.dll
