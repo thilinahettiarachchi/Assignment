@@ -1,0 +1,46 @@
+<div class="container">
+    <div class="row">
+        <div class="col-md-5">
+            <div class="card">
+                <div class="card-header">
+                    <h4><b>{{title | uppercase}}</b></h4>
+                    <h4 *ngIf="showHideSubTitle"><b>{{subTitle}}</b></h4>
+                </div>
+                <div class="card-body">
+                    <form #form="ngForm" autocomplete="off" (submit)="OnSubmit(form)">
+                        <input type="hidden" name="Id" #Id="ngModel" [(ngModel)]="employees_service.formData.Id">
+                        <div class="form-group">
+                            <input type="text" name="EmployeeCode" #EmployeeCode="ngModel" [(ngModel)]="employees_service.formData.EmployeeCode" class="form-control" placeholder="Employee Code" required>
+                        </div>
+                        <div class="form-group">
+                            <input type="text" name="EmployeeName" #EmployeeName="ngModel" [(ngModel)]="employees_service.formData.EmployeeName" class="form-control" placeholder="Employee Name" required>
+                        </div>
+                        <div class="form-group">
+                            <input type="text" name="EmployeeDesignation" #EmployeeDesignation="ngModel" [(ngModel)]="employees_service.formData.EmployeeDesignation" class="form-control" placeholder="Employee Designation" required>
+                        </div>
+                        <div class="form-group">
+                            <button type="submit" class="btn btn-primary" [disabled]="form.invalid">Submit</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-7">
+            <table class="table table-borderd">
+                <tr>
+                    <th>Id</th>
+                    <th>Employee Code</th>
+                    <th>Employee Name</th>
+                    <th>Employee Designation</th>
+                </tr>
+                <tr *ngFor="let employee of employeeList">
+                    <td (click)="populateForm(employee)">{{employee.Id}}</td>
+                    <td (click)="populateForm(employee)">{{employee.EmployeeCode}}</td>
+                    <td (click)="populateForm(employee)">{{employee.EmployeeName}}</td>
+                    <td (click)="populateForm(employee)">{{employee.EmployeeDesignation}}</td>
+                    <td><button class="btn btn-danger" (click)="DeleteEmployee(employee.Id)">Delete</button></td>
+                </tr>
+            </table>
+        </div>
+    </div>
+</div>
